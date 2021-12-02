@@ -1,4 +1,7 @@
 # weatherAppJS
 Weather app in JavaScript
 
-<img src="img.jpg" width="200"/>
+
+<img src="1.png"/>
+<img src="2.png"/>
+
